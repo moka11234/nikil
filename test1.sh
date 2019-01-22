@@ -1,3 +1,3 @@
-calender
+cal
 date
 hostname
